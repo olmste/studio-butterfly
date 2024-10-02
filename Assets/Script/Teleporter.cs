@@ -18,7 +18,7 @@ public class Teleporter : MonoBehaviour
     public void SwitchToScene(int sceneId)
     {
         nextScene = sceneId;
-        animator.SetTrigger("fadeout");
+        animator.SetTrigger("FadeOut");
     }
 
     /// <summary>

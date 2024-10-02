@@ -21,7 +21,8 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Rock_Medium_03
-  m_Shader: {fileID: -6465566751694194690, guid: ef2aa9333fbc23b40ae6289389ebd8fb, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: ef2aa9333fbc23b40ae6289389ebd8fb,
+    type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
@@ -163,7 +164,7 @@ Material:
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
     - _Contrast: 0.7
-    - _Coverage_Map_Scale: 4
+    - _Coverage_Map_Scale: 7
     - _Coverage_Mask_Scale: 1
     - _Coverage_Normal_Strength: 1
     - _Coverage_Smoothness: 0
@@ -209,7 +210,7 @@ Material:
     - _ZWriteControl: 0
     m_Colors:
     - _BaseColor: {r: 0.77254903, g: 0.70980394, b: 0.62352943, a: 1}
-    - _Color: {r: 0.754717, g: 0.7352475, b: 0.66571736, a: 1}
+    - _Color: {r: 0.4188679, g: 0.2579688, b: 0.046628654, a: 1}
     - _Coverage_Color: {r: 0.6106299, g: 0.7169812, b: 0, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _MossOffset: {r: 0, g: 0, b: 0, a: 0}
